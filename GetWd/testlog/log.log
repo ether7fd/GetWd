@@ -1,0 +1,386 @@
+INFO : 2023-11-25 14:08:25,357 : START
+ERROR : 2023-11-25 14:08:25,357 : Failed to get csv file
+INFO : 2023-11-25 14:08:25,357 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 14:08:25,899 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:26,708 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:08:27,129 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:27,926 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:08:28,357 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:28,999 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 14:08:29,442 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:32,479 : START
+INFO : 2023-11-25 14:08:32,479 : Opened csv file"
+INFO : 2023-11-25 14:08:32,479 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 14:08:32,908 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:33,880 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 14:08:34,299 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:34,866 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:08:35,302 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:08:35,993 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:08:36,423 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:09:04,819 : START
+INFO : 2023-11-25 14:09:04,819 : Opened csv file"
+INFO : 2023-11-25 14:09:04,819 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:09:05,276 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:09:05,953 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 14:09:06,363 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:09:07,134 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 14:09:07,562 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:09:08,244 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:09:08,663 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:25,073 : START
+INFO : 2023-11-25 14:10:25,073 : Opened csv file"
+INFO : 2023-11-25 14:10:25,073 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:10:25,550 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:26,353 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 14:10:26,959 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:27,732 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 14:10:28,153 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:28,932 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:10:29,381 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:42,105 : START
+ERROR : 2023-11-25 14:10:42,105 : Failed to get csv file
+INFO : 2023-11-25 14:10:42,105 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 14:10:42,770 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:44,938 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:10:45,382 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:46,855 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 14:10:47,281 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 14:10:48,247 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 14:10:48,686 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:02,012 : START
+INFO : 2023-11-25 17:32:02,013 : Opened csv file"
+INFO : 2023-11-25 17:32:02,013 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:32:02,547 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:03,232 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:32:03,709 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:04,479 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:32:04,918 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:05,683 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:32:06,183 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:19,674 : START
+ERROR : 2023-11-25 17:32:19,674 : Failed to get csv file
+INFO : 2023-11-25 17:32:19,674 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:32:20,120 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:23,514 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:32:23,935 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:25,215 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:32:25,656 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:32:27,012 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:32:27,456 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:47:08,114 : START
+ERROR : 2023-11-25 17:47:08,115 : Failed to get csv file
+INFO : 2023-11-25 17:47:08,115 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:47:08,582 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:47:10,010 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:47:10,427 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:47:11,762 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:47:12,184 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:47:13,407 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:47:13,821 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:48:30,245 : START
+ERROR : 2023-11-25 17:48:30,246 : Failed to get csv file
+INFO : 2023-11-25 17:48:30,246 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:48:30,734 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:48:31,971 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:48:32,426 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:48:33,554 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:48:33,985 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:48:35,257 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:48:35,678 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:51:20,857 : START
+ERROR : 2023-11-25 17:51:20,857 : Failed to get csv file
+INFO : 2023-11-25 17:51:20,857 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:51:21,472 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:51:22,412 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:51:22,932 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:51:24,188 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:51:24,652 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:51:25,533 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:51:26,061 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:52:35,779 : START
+ERROR : 2023-11-25 17:52:35,780 : Failed to get csv file
+INFO : 2023-11-25 17:52:35,780 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:52:36,336 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:52:37,838 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:52:38,371 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:52:39,271 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:52:39,759 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:52:40,657 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:52:41,158 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:56:20,828 : START
+INFO : 2023-11-25 17:56:20,828 : Opened csv file"
+INFO : 2023-11-25 17:56:20,828 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:56:21,274 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:56:22,037 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 17:56:22,449 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:56:23,123 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 17:56:23,542 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:56:24,197 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 17:56:24,695 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 17:56:25,770 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 17:56:26,214 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:13:46,763 : START
+ERROR : 2023-11-25 18:13:46,763 : Failed to get csv file
+INFO : 2023-11-25 18:13:46,763 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:13:47,263 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:13:48,736 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:13:49,197 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:13:50,412 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:13:50,885 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:13:52,282 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:13:52,735 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:13:54,386 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:13:54,823 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:15:01,461 : START
+ERROR : 2023-11-25 18:15:01,461 : Failed to get csv file
+INFO : 2023-11-25 18:15:01,461 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:15:01,951 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:15:03,415 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:15:03,852 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:15:05,325 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:15:05,746 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:15:06,976 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:15:07,455 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:15:09,162 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:15:09,596 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:16:02,128 : START
+INFO : 2023-11-25 18:16:02,128 : Opened csv file"
+INFO : 2023-11-25 18:16:02,128 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:16:02,588 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:16:03,350 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:16:03,774 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:16:04,633 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:16:05,057 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:16:05,750 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:16:06,178 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:16:07,074 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:16:07,493 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:17:01,444 : START
+INFO : 2023-11-25 18:17:01,444 : Opened csv file"
+INFO : 2023-11-25 18:17:01,444 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:17:01,954 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:17:02,620 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:17:03,076 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:17:03,754 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:17:04,214 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:17:04,866 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:17:05,297 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:17:06,097 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:17:06,515 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:18:01,477 : START
+INFO : 2023-11-25 18:18:01,477 : Opened csv file"
+INFO : 2023-11-25 18:18:01,477 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:18:01,926 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:18:02,628 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:18:03,062 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:18:03,612 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:18:04,023 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:18:04,791 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:18:05,220 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:18:05,998 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:18:06,412 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:19:01,232 : START
+INFO : 2023-11-25 18:19:01,232 : Opened csv file"
+INFO : 2023-11-25 18:19:01,232 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:19:01,733 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:19:02,411 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 18:19:02,837 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:19:03,697 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 18:19:04,120 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:19:04,678 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 18:19:05,105 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 18:19:06,004 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 18:19:06,421 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 19:00:01,383 : START
+INFO : 2023-11-25 19:00:01,384 : Opened csv file"
+INFO : 2023-11-25 19:00:01,384 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 19:00:01,958 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 19:00:02,299 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 19:00:02,806 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 19:00:03,170 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 19:00:03,701 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 19:00:03,966 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 19:00:04,466 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 19:00:04,873 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 19:00:05,372 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 20:00:02,943 : START
+INFO : 2023-11-25 20:00:02,961 : Opened csv file"
+INFO : 2023-11-25 20:00:02,961 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 20:00:03,807 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 20:00:04,559 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 20:00:05,553 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 20:00:06,363 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 20:00:08,007 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 20:00:08,745 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 20:00:09,657 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 20:00:10,493 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 20:00:11,331 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 21:00:01,263 : START
+INFO : 2023-11-25 21:00:01,263 : Opened csv file"
+INFO : 2023-11-25 21:00:01,263 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 21:00:01,904 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 21:00:02,677 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 21:00:04,108 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 21:00:04,572 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 21:00:05,034 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 21:00:05,535 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 21:00:06,182 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 21:00:06,959 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 21:00:07,448 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 22:00:01,308 : START
+INFO : 2023-11-25 22:00:01,308 : Opened csv file"
+INFO : 2023-11-25 22:00:01,308 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 23:00:01,956 : START
+INFO : 2023-11-25 23:00:01,956 : Opened csv file"
+INFO : 2023-11-25 23:00:01,956 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 23:00:02,502 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 23:00:03,200 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-25 23:00:03,722 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 23:00:04,490 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-25 23:00:04,928 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 23:00:05,612 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-25 23:00:06,053 : HTTP STATUS CODE: 200
+INFO : 2023-11-25 23:00:06,933 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-25 23:00:07,719 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 00:00:01,572 : START
+INFO : 2023-11-26 00:00:01,572 : Opened csv file"
+INFO : 2023-11-26 00:00:01,573 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 00:00:02,108 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 00:00:02,478 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 00:00:02,987 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 00:00:04,806 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 00:00:05,405 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 00:00:05,713 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 00:00:06,203 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 00:00:06,677 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 00:00:07,222 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 01:00:01,181 : START
+INFO : 2023-11-26 01:00:01,181 : Opened csv file"
+INFO : 2023-11-26 01:00:01,181 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 01:00:01,727 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 01:00:02,600 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 01:00:02,869 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 01:00:03,624 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 01:00:04,272 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 01:00:04,827 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 01:00:05,278 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 01:00:06,167 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 01:00:06,595 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 02:00:01,558 : START
+INFO : 2023-11-26 02:00:01,558 : Opened csv file"
+INFO : 2023-11-26 02:00:01,558 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 02:00:02,075 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 02:00:02,823 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 02:00:03,259 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 02:00:04,122 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 02:00:04,548 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 02:00:05,196 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 02:00:05,692 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 02:00:06,678 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 02:00:07,137 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 03:00:02,081 : START
+INFO : 2023-11-26 03:00:02,081 : Opened csv file"
+INFO : 2023-11-26 03:00:02,081 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 03:00:02,577 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 03:00:03,462 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 03:00:03,965 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 03:00:04,619 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 03:00:05,113 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 03:00:05,898 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 03:00:06,362 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 03:00:07,042 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 03:00:07,601 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 04:00:02,103 : START
+INFO : 2023-11-26 04:00:02,103 : Opened csv file"
+INFO : 2023-11-26 04:00:02,103 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 05:00:01,742 : START
+INFO : 2023-11-26 05:00:01,743 : Opened csv file"
+INFO : 2023-11-26 05:00:01,743 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 05:00:02,243 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 05:00:03,007 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 05:00:03,469 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 05:00:04,336 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 05:00:04,772 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 05:00:05,535 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 05:00:06,063 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 05:00:06,436 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 05:00:06,944 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 06:00:01,740 : START
+INFO : 2023-11-26 06:00:01,740 : Opened csv file"
+INFO : 2023-11-26 06:00:01,740 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 07:00:01,567 : START
+INFO : 2023-11-26 07:00:01,567 : Opened csv file"
+INFO : 2023-11-26 07:00:01,567 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 07:00:02,067 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 07:00:02,942 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 07:00:03,384 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 07:00:04,150 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 07:00:04,594 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 07:00:05,178 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 07:00:05,619 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 07:00:06,399 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 07:00:06,838 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 08:00:01,687 : START
+INFO : 2023-11-26 08:00:01,687 : Opened csv file"
+INFO : 2023-11-26 08:00:01,687 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 08:00:02,268 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 08:00:02,631 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 08:00:03,161 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 08:00:03,484 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 08:00:04,001 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 08:00:04,281 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 08:00:04,773 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 08:00:05,217 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 08:00:05,731 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 09:00:01,348 : START
+INFO : 2023-11-26 09:00:01,348 : Opened csv file"
+INFO : 2023-11-26 09:00:01,348 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 10:00:02,080 : START
+INFO : 2023-11-26 10:00:02,080 : Opened csv file"
+INFO : 2023-11-26 10:00:02,080 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 10:00:03,209 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 10:00:03,878 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 10:00:04,308 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 10:00:04,925 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 10:00:05,366 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 10:00:05,924 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 10:00:06,370 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 10:00:07,270 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 10:00:07,700 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 11:00:01,583 : START
+INFO : 2023-11-26 11:00:01,583 : Opened csv file"
+INFO : 2023-11-26 11:00:01,583 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 11:00:02,394 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 11:00:03,157 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 11:00:03,878 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 11:00:04,521 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 11:00:05,141 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 11:00:05,703 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 11:00:06,424 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 11:00:07,210 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 11:00:08,239 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 12:00:01,214 : START
+INFO : 2023-11-26 12:00:01,214 : Opened csv file"
+INFO : 2023-11-26 12:00:01,214 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 12:00:01,798 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 12:00:02,284 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 12:00:02,839 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 12:00:03,287 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 12:00:03,784 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 12:00:04,066 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 12:00:04,596 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 12:00:05,058 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 12:00:05,565 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 13:00:02,116 : START
+INFO : 2023-11-26 13:00:02,116 : Opened csv file"
+INFO : 2023-11-26 13:00:02,116 : https://www.amazon.co.jp/gp/video/detail/B0C9QXPFTQ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 13:00:02,673 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 13:00:03,333 : https://www.amazon.co.jp/gp/video/detail/B0CJQ2TL1B/ref=atv_hm_hom_c_TEdR0r_2_1
+INFO : 2023-11-26 13:00:03,767 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 13:00:04,323 : https://www.amazon.co.jp/gp/video/detail/B0CHLDW6FJ/ref=atv_hm_hom_c_TEdR0r_2_3
+INFO : 2023-11-26 13:00:04,753 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 13:00:05,523 : https://www.amazon.co.jp/gp/video/detail/B0B5NS1ZNZ/ref=atv_hm_hom_c_5m1aZK_brws_3_1?jic=8%7CEgRzdm9k
+INFO : 2023-11-26 13:00:06,000 : HTTP STATUS CODE: 200
+INFO : 2023-11-26 13:00:06,795 : https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD/ref=atv_hm_hom_c_TEdR0r_2_2
+INFO : 2023-11-26 13:00:07,438 : HTTP STATUS CODE: 200
